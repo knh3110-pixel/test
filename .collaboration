@@ -182,7 +182,7 @@
       "UserName": "AzureAD\\NancyKim",
       "Email": "example@example.com"
     },
-    "LockDateTime": "2025-09-02T11:31:41.6070652+09:00",
+    "LockDateTime": "2025-09-02T11:33:31.463044+09:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\테이블1.json",
@@ -197,7 +197,7 @@
       "UserName": "AzureAD\\NancyKim",
       "Email": "example@example.com"
     },
-    "LockDateTime": "2025-09-02T11:31:41.6070681+09:00",
+    "LockDateTime": "2025-09-02T11:33:31.4630449+09:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\테이블2.json",
@@ -214,5 +214,16 @@
     },
     "LockDateTime": "2025-09-02T11:33:23.5125029+09:00",
     "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/테이블3",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "AzureAD\\NancyKim",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-09-02T11:33:31.4630395+09:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
   }
 ]
