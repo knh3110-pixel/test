@@ -177,23 +177,11 @@
   },
   {
     "ModuleName": "Table/테이블1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "AzureAD\\NancyKim",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2025-09-02T11:27:49.6365155+09:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/테이블2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "AzureAD\\NancyKim",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2025-09-02T11:27:49.6365099+09:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   }
