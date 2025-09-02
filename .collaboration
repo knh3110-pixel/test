@@ -177,12 +177,32 @@
   },
   {
     "ModuleName": "Table/테이블1",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "AzureAD\\NancyKim",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-09-02T11:31:41.6070652+09:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\테이블1.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/테이블2",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "AzureAD\\NancyKim",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-09-02T11:31:41.6070681+09:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\테이블2.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   }
 ]
