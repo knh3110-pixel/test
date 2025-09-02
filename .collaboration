@@ -177,12 +177,32 @@
   },
   {
     "ModuleName": "Table/테이블1",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "mcsfgc\\Administrator",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-09-02T11:34:19.118619+09:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\테이블1.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/테이블2",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "mcsfgc\\Administrator",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-09-02T11:34:19.1186222+09:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\테이블2.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -191,7 +211,17 @@
   },
   {
     "ModuleName": "Table/테이블3",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "mcsfgc\\Administrator",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-09-02T11:34:19.1185887+09:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\폴더1\\테이블3.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   }
 ]
